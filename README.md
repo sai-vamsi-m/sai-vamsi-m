@@ -1,3 +1,32 @@
+```
+                           .　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   .
+                                 . 　　 　　　　　　　 ✦        　　　 　 ‍˚　　　 , ‍ ‍ ‍ 　　　　 　　　　　,　　
+                           .　　　　　　　　　　　　.　                             　　　　　˚　🌀　 . ✦　　 　 　,
+                              ,　　　　　　.　　　  　　　　　　✦               ☄️
+                               🌔    　      　　　　   ˚　　　 　 　,     　　　　　˚　　　 　 　,　　　　☀️　　 .
+                               ˚　　　 　 　      　   　　　　　　　　　　　 
+                                      ✦ 　   　　,　　　　　  🚀 　Hey, I'm Sai Vamsi　☽　　 　　,　　　 ‍ ‍ ‍ ‍ 　　.
+                               .　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　 　 ,
+                            ˚　　　 　 　　　🌌       　    　　　　　　　　　　　　　　　.　　　  　　    　.　　　 .
+                              * 　　   　　　　　 ✦   　       ✦           .　　 　　 　　 　　　　　.　　　
+                                  ✦ 　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　 🌑 　　　    🛰
+                            ˚　　　　　　　　　　　🪐　　　　　　　　　ﾟ　　　　　.　　　　　　　　　 　. 　　 　 🌏 ‍  ,
+                                   * .　　　　　 　  　　　.　　　　　　　　　　 ✦ 
+                              *　　　　　　   　　　˚　　　 　 　,　　　　　　　　　　　　.　　　　　   .　  　　. 
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Sai Vamsi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
