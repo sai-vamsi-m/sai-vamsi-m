@@ -1,34 +1,26 @@
 ```
-                           .　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   .
-                                 . 　　 　　　　　　　 ✦        　　　 　 ‍˚　　　 , ‍ ‍ ‍ 　　　　 　　　　　,　　
-                           .　　　　　　　　　　　　.　                             　　　　　˚　🌀　 . ✦　　 　 　,
-                              ,　　　　　　.　　　  　　　　　　✦               ☄️
-                               🌔    　      　　　　   ˚　　　 　 　,     　　　　　˚　　　 　 　,　　　　☀️　　 .
-                               ˚　　　 　 　      　   　　　　　　　　　　　 
-                                      ✦ 　   　　,　　　　　  🚀 　Hey, I'm Sai Vamsi　☽　　 　　,　　　 ‍ ‍ ‍ ‍ 　　.
-                               .　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　 　 ,
-                            ˚　　　 　 　　　🌌       　    　　　　　　　　　　　　　　　.　　　  　　    　.　　　 .
-                              * 　　   　　　　　 ✦   　       ✦           .　　 　　 　　 　　　　　.　　　
-                                  ✦ 　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　 🌑 　　　    🛰
-                            ˚　　　　　　　　　　　🪐　　　　　　　　　ﾟ　　　　　.　　　　　　　　　 　. 　　 　 🌏 ‍  ,
-                                   * .　　　　　 　  　　　.　　　　　　　　　　 ✦ 
-                              *　　　　　　   　　　˚　　　 　 　,　　　　　　　　　　　　.　　　　　   .　  　　. 
+ .　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   .
+       . 　　 　　　　　　　 ✦        　　　 　 ‍˚　　　 , ‍ ‍ ‍ 　　　　 　　　　　,　　
+ .　　　　　　　　　　　　.　                             　　　　　˚　🌀　 . ✦　　 　 　,
+    ,　　　　　　.　　　  　　　　　　✦               ☄️
+     🌔    　      　　　　   ˚　　　 　 　,     　　　　　˚　　　 　 　,　　　　☀️　　 .
+     ˚　　　 　 　      　   　　　　　　　　　　　 
+            ✦ 　   　　,　　　　　  🚀 　Hey, I'm Sai Vamsi　☽　　 　　,　　　 ‍ ‍ ‍ ‍ 　　.
+     .　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　 　 ,
+  ˚　　　 　 　　　🌌       　    　　　　　　　　　　　　　　　.　　　  　　    　.　　　 .
+    * 　　   　　　　　 ✦   　       ✦           .　　 　　 　　 　　　　　.　　　
+        ✦ 　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　 🌑 　　　    🛰
+  ˚　　　　　　　　　　　🪐　　　　　　　　　ﾟ　　　　　.　　　　　　　　　 　. 　　 　 🌏 ‍  ,
+         * .　　　　　 　  　　　.　　　　　　　　　　 ✦ 
+    *　　　　　　   　　　˚　　　 　 　,　　　　　　　　　　　　.　　　　　   .　  　　. 
 ```
 
 
+<h1 align="center">A passionate developer from India</h1>
 
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Sai Vamsi</h1>
-<h3 align="center">A passionate developer from India</h3>
+<p align="center">
+ <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/sai-vamsi-madasu" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 
 Hello there! My name is Sai Vamsi, and I am currently pursuing my B.Tech in Artificial Intelligence from Veltech University. I am a passionate programmer with a strong foundation in C, C++, Java, and Python programming languages.
@@ -44,30 +36,57 @@ Thank you for taking the time to read about me, and feel free to check out my pr
 
 - 👯 I’m looking to collaborate on **AI and ML projects**
 
-- 📫 How to reach me **vamsisreenivas71054@gmail.com**
+- 📫 To reach me: **saivamsi.madasu@gmail.com**
 
 - ⚡ Fun fact **I am a memer, photo & video editor**
 
-<h3 align="left">Languages and Tools:</h3>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 
 
-<h3 align="left">Repo Stats</h3>
+<h2 align="left">💻 My Tech Stack</h2>
+
+#### Languages
+
+![C](https://img.shields.io/badge/C-000?logo=C&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-000?logo=C++&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-000?logo=Java&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000?logo=Python&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+
+#### JS Framework/Library
+
+![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+
+#### CSS3 Framework/Library
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+#### ML/DL
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn) 
+![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy)
+
+#### Databases
+
+![MySQL](https://img.shields.io/badge/-Mysql-000?style=for-the-badge&logo=Mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000.svg?logo=mongodb&style=for-the-badge)
+
+#### Backend
+
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+
+
+<h2 align="left">📊 My Repos Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vamsi-m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">GitHub Trophies</h3>
-
-![](https://github-profile-trophy.vercel.app/?username=sai-vamsi-m&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sai-vamsi-madasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-vamsi-madasu" height="30" width="40" /></a>
-</p>
-
  
-<h3 align="left">Random Dev Quote</h3>
+<h2 align="left">Random Dev Quote</h2>
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
