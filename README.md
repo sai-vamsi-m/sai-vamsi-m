@@ -81,7 +81,7 @@ Thank you for taking the time to read about me, and feel free to check out my pr
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 
 
-<h2 align="left">📊 My Repos Stats</h3>
+<h2 align="left">📊 Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vamsi-m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
