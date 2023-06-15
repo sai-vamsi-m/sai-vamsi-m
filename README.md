@@ -27,11 +27,11 @@ Hello there! My name is Sai Vamsi, and I am currently pursuing my B.Tech in Arti
 
 Besides, I am a Full-stack Web Developer who is familiar with front-end development technologies like HTML, TailWindCSS, ReactJS, and JavaScript, and also back-end development with Node.js, Express.js, MySQL, and MongoDB.
 
-On my GitHub profile, you can find several projects that showcase my programming and development skills. Some of my notable projects include web3 crowdfunding website, ai image generation, ai self-driving car simulation, medical insurance cost prediction system.
+Here, you can find several projects that showcase my programming and development skills. Some of my notable projects include web3 crowdfunding website, ai image generation, ai self-driving car simulation, medical insurance cost prediction system.
 
-I am always eager to learn and explore new technologies and trends. I am open to collaborations and would love to connect with fellow developers and enthusiasts.
+I am always eager to learn and explore new technologies and trends. I am open to collaborations and would love to connect with fellow developers and tech enthusiasts.
 
-Thank you for taking the time to read about me, and feel free to check out my projects on GitHub!
+Thank you for taking the time to read about me, and feel free to check out my projects!
 
 
 - 👯 I’m looking to collaborate on **AI and ML projects**
